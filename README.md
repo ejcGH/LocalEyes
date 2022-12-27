@@ -1,6 +1,6 @@
 # LocalEyes
 
 
-Local Eyes is a PERN stack web application with CRUD operations that will allow users to publicly post their local deals for others to take advantage of.
+LocalEyes is a PERN stack web application with CRUD operations that will allow users to publicly post their local deals for others to take advantage of.
 
 
